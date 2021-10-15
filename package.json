@@ -1,0 +1,25 @@
+{
+  "name": "filter-table-with-slider",
+  "version": "1.0.0",
+  "description": "Redux Ant Design ",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "3.21.4",
+    "lodash.groupby": "4.6.0",
+    "node-uuid": "1.4.8",
+    "numeral": "2.0.6",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-redux": "5.1.1",
+    "react-scripts": "3.1.0",
+    "redux": "4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

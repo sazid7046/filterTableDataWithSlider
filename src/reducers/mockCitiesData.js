@@ -1,0 +1,32 @@
+const cities = [
+  { name: "Austin", population: 2056405 },
+  { name: "Dallas", population: 7233323 },
+  { name: "Houston", population: 6313158 },
+  { name: "San Antonio", population: 2454061 },
+  { name: "Cleveland", population: 2078725 },
+  { name: "Columbus", population: 2078725 },
+  { name: "Cincinnati", population: 2137406 },
+  { name: "Philadelphia", population: 6069875 },
+  { name: "Pittsburgh", population: 2360867 },
+  { name: "New York City", population: 20830585 },
+  { name: "Buffalo", population: 1134210 },
+  { name: "Jacksonville", population: 1626611 },
+  { name: "Denver", population: 2814330 },
+  { name: "Seattle", population: 3733580 },
+  { name: "Portland", population: 2389228 },
+  { name: "Toledo", population: 608145 },
+  { name: "Youngstown", population: 555506 },
+  { name: "Akron", population: 705686 },
+  { name: "Dayton", population: 799232 },
+  { name: "San Francisco", population: 4727357 },
+  { name: "San Diego", population: 3317749 },
+  { name: "Los Angeles", population: 13131431 },
+  { name: "Sacramento", population: 2149127 },
+  { name: "Boise", population: 664422 },
+  { name: "Cheyenne", population: 96389 },
+  { name: "Omaha", population: 924129 },
+  { name: "Chicago", population: 9512999 },
+  { name: "Indianapolis", population: 2004230 }
+];
+
+export default cities;
